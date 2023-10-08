@@ -1,0 +1,147 @@
+@media all and (min-width:1024px){
+    header{
+        width:102.4em;
+        height:9.6em;
+    }
+    main{
+        width:102.4em;
+    }
+    .heading{
+        width:102.4em;
+    }
+    .header-nav{
+        width:40.8em;
+        height:2em;
+    }
+    .section-1{
+        width:102.4em;
+        height:86.2em;
+    }
+    .entry{
+        width:96em;
+        height:34.8em;
+        padding:12px 165px 68px 165px;
+    }
+    .text-1{
+        width:63em;
+        height:20em;
+    }
+    h1{
+        display:inline-block;
+        width:638px;
+        height:120px;
+        font-size: 5.6em;
+        line-height: 60px;
+    }
+    .mid-text{
+        display: inline-block;
+        width:590px;
+        height:56px;
+    }
+    .act-purchase{
+        display:flex;
+        justify-content: center;
+        flex-direction: row;
+        width:60.6em;
+    }
+    .pillows{
+        width:96em;
+        height:45em;
+    }
+    .section-2{
+        width:102.4em;
+        height:25.4em;
+        padding:39px 32px;
+        display:flex;
+        flex-direction: row;
+    }
+    .middle{
+        width:28em;
+        height: 17.8em;
+        margin-right:61px;
+    }
+    .feature-1{
+        justify-content: flex-start;
+    }
+    .feature-text{
+        text-align: left;
+        width:280px;
+        height:120px;
+        display: inline-block;
+        padding-top:20px;
+    }
+    .section-3{
+        width:102.4em;
+        height:89.5em;
+    }
+    .shelves{
+        width:96em;
+        height:55em
+    }
+    .text-2{
+        width:96em;
+        height:18.5em;
+        display:flex;
+        justify-content: flex-start;
+        flex-direction: row;
+        padding-left: 17px;
+    }
+    .sec-3-h{
+        width:41.6em;
+        height:9.6em;
+        margin-right:128px;
+    }
+    h3{
+        text-align: left;
+        width:415.5px;
+        height:96px;
+    }
+    .text-2-1{
+        width:41.6em;
+        height:18.5em;
+        text-align: left;
+    }
+    .mid-list{
+        text-align: left;
+    }
+    .mid-list .mid-list-item{
+        text-align: left;
+        width:41.5em;
+        height:2.4em;
+        text-align: left;
+    }
+    .mid-list-1{
+        width:41.5em;
+        height:12em;
+    }
+    .section-4{
+        width:102.4em;
+        height:58.8em;
+    }
+    .background-img{
+        width:102.4em;
+        height:58.8em;
+    }
+    .cta{
+        width:60em;
+        height:20.4em;
+    }
+    .text-cta{
+        width:60em;
+        height:13.2em;
+    }
+    h5{
+        width:600px;
+    }
+    .footer-box{
+        width:102.4em;
+        height:30.9em;
+    }
+    .column-1{
+        width:24em;
+        height:14.4em;
+    }
+    .footer-4{
+        display: none;
+    }
+}

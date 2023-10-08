@@ -1,0 +1,147 @@
+@media all and (min-width:744px){
+    header{
+        width:74.4em;
+   }
+    main{
+        width:74.4em;
+        height:258em;
+    }
+    .heading{
+        width:74.4em;
+        height:9.6em;
+        padding:24px;
+    }
+    .burger-btn{
+        display:none;
+    }
+    .header-btn{
+        display: block;
+        border-radius:32px;
+        width:100px;
+        height:48px;
+        font-size: 1.6em;
+        background-color:rgba(0, 0, 0, 1) ;
+        padding:12px 24px;
+        color:rgba(243, 243, 243, 1);
+        font-weight: 700;
+        line-height: 24px;
+    }   
+    .header-item-hr{
+        color:black;
+    }
+    .header-nav{
+        display:block;
+        width:32em;
+        height:2em;
+    } 
+    .header-list{
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .header-list-item{
+        height:2em;
+        font-weight: 500;
+        font-size: 1.6em;
+        line-height: 19.36px;
+    }
+    button .black-logo{
+        width:1.01em;
+        height:2.7em;
+    }
+    sup{
+        width:1.4em;
+        height:0.9em;
+    }
+    .section-1{
+        width:74.4em;
+        height:75em;
+        padding:24px;
+    }
+    .act-purchase{
+        width:69.6em;
+        height:8.4em;
+    }
+    .black-btn{
+        width:8em;
+        height: 4em;
+        margin-top:10px;
+    }
+    .pillows{
+        width:69.6em;
+        height:49.9em;
+        padding:10px;
+    }
+    .mid-text{
+        margin:0px 24px;
+    }
+    .middle{
+        width:74.4em;
+        height:13.8em;
+        padding:20px;
+        text-align: center;
+    }
+    .feature-1{
+        width:74.4em;
+        height:4em;
+        padding-top:20px;
+    }
+    .feature-text{
+        padding-top:50px;
+    }
+    .section-3{
+        width:74.4em;
+        height:91.7em;
+        padding:24px;
+    }
+    .shelves{
+        width:69.6em;
+        height:55em;
+        padding:10px;
+    }
+    .text-2{
+        margin-top:30px;
+    }
+    h3{
+        font-size: 2.4em;  
+    }
+    .text-2-2{
+        font-size:1.6em;
+        width:696px;
+        height:48px;
+    }
+    .background-img{
+        width:74.4em;
+        height:50em;
+    }
+    .cta{
+        width: 74.4em;
+        height:18.4em
+    }
+    h5{
+        width:744px;
+        height:96px;
+        font-size: 4em;
+    }
+    .footer-box{
+        width:74.4em;
+        height:25em;
+        text-align: left;
+        padding:40px 22px;
+    }
+    .white-logo{
+        width:3.7em;
+        height: 1.7em;
+    }
+    .column-1{
+        width:15.6em;
+        height:13.6em;
+    }
+    .mobile-footer{
+        width:74.4em;
+        justify-content: flex-start;
+    }
+    .footer-4{
+        display: none;
+    }
+}    

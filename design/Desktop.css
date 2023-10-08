@@ -1,0 +1,126 @@
+@media all and (min-width:1440px){
+    body{
+        width:144em;
+        height: 242.8em;
+    }
+    main{
+        width:144em;
+        height:199.6em;
+    }
+    .heading{
+        width:144em;
+    }
+    .section-1{
+        width:144em;
+        height:55.6em;
+        padding:64px 165px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .entry{
+        width:49em;
+        height:28.8em;
+        padding: 0;
+    }
+    .text-1{
+        width:49em;
+        height:20em;
+    }
+    h1{
+        width:490px;
+        height:120px;
+        text-align: left;
+    }
+
+    .pillows{
+        width:49em;
+        height:42.8em;
+    }
+    .mid-text{
+        width:490px;
+        height: 56px;
+        margin:0;
+        text-align: left;
+    }
+    .act-purchase{
+        width:49em;
+        height:4.8em;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .purchase{
+        width:236px;
+        height:40px;
+        text-align: left;
+        line-height: 20px;
+        padding: 0;
+        margin-left:20px;
+    }
+    .section-2{
+        width:144em;
+        height:25.6em;
+        padding:64px 150px;
+        justify-content: space-between;
+    }
+    .sec-3{
+        width:114em;
+        height:42.8em;
+        display: flex;
+        justify-content: space-between;
+    }
+    .section-3{
+        width:144em;
+        height:62em;
+        padding:96px 150px;
+    }
+    .shelves{
+        width:50.35em;
+        height: 42.8em;
+    }
+    .text-2{
+        flex-direction: column;
+        width:50.4em;
+        height:26.4em;
+    }
+    h3{
+        width:503.5px;
+        height:64px;
+    }
+    .section-4{
+        width:144em;
+        height:56.4em;
+    }
+    .background-img{
+        width:144em;
+        height:56.4em;
+    }
+    .footer-box{
+        width:144em;
+        height: 33.6em;
+        display: flex;
+        justify-content: center;
+        padding:96px 150px;
+    }
+    .column-1{
+        width:22.8em;
+        height:14.4em;
+    }
+    .mobile-footer{
+        width:92em;
+    }
+    .white-logo{
+        width:13.7em;
+    }
+    .footer-4{
+        display: inline-block;
+    }
+    .subscribe{
+        color:rgba(255, 255, 255, 1);
+        font-weight: 400;
+        font-size: 1.4em;
+        line-height: 20px;
+    }
+
+
+
+}
